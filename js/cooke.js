@@ -16,6 +16,6 @@ document.body.onload = function(){
     {
         preloader.classList.add('hide');
     }
-    }, 3000);
+    }, 1000);
 
 }
