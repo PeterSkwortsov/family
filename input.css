@@ -432,7 +432,7 @@ h4 {
     grid-template-areas: "wide1 wide1" "wide2 wide2" "wide2 wide2" "product1 product2" "product1 product2" "wide3 wide3" "wide3 wide3" "wide4 wide4" "product3 product3" "product5 product5"; } }
 .sale-1 {
   grid-area: wide1;
-  background-image: url(img/blur/12.jpg);
+  background-image: url(./img/blur/12.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: right; }
